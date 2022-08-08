@@ -14,5 +14,8 @@ public class Cat  {
     public void setName(String name) {
         this.name = name;
     }
+    public void getName() {
+        this.name = name;
+    }
 
 }
